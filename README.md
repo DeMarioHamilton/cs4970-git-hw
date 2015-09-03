@@ -6,6 +6,6 @@ Second mod
 First Modification
 3rd mod
 
-First new  line that might make a merge conflict
-new second possible conflict area
-this new should definitely ake a conflict!
+First line new  that might make a merge conflict
+new second new possible conflict area
+new this ew should definitely ake a conflict!
